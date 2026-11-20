@@ -14,4 +14,4 @@
 - Codex CLI 的配置根和 Windows Store 版应用的包目录分别处理。检查 `CODEX_HOME` 是否已设置，按[配置文档](https://learn.chatgpt.com/docs/config-file/config-basic)确认当前 CLI 生效范围。
 - Windows Store/MSIX 版的 Roaming 和 LocalCache 目录保留实体路径。若已有重解析点且出现异常内存或远程会话故障，优先核对包目录和链接目标；先备份再按执行规则回退。
 
-[Windows 应用文档](https://learn.chatgpt.com/docs/app/windows)
+[Windows 应用文档](https://learn.chatgpt.com/docs/windows/windows-app)
